@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <p align="center">
   <a href="https://getdoks.org/">
     <img alt="Doks" src="https://doks.netlify.app/logo-doks.svg" width="60">
@@ -141,4 +140,3 @@ Support this project by becoming a backer. Your avatar will show up here.
 =======
 # www.datenga.org
 Data Engineering Association Public Website
->>>>>>> 1f0281727e3e493dafd0383878bb26f128e56ac3
