@@ -1,3 +1,6 @@
+# https://content-security-policy.com/
+# https://content-security-policy.com/examples/netlify/
+
 [build]
   publish = "public"
   functions = "functions"
@@ -28,3 +31,8 @@
   port = 8888
   publish = "public"
   autoLaunch = false
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Content-Security-Policy = "default-src 'self'; script-src 'self' unpkg.com identity.netlify.com"
