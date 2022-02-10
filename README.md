@@ -140,3 +140,12 @@ Support this project by becoming a backer. Your avatar will show up here.
 =======
 # www.datenga.org
 Data Engineering Association Public Website
+
+
+--- 
+# MISC
+
+```
+➜  www.datenga.org git:(main) ✗ source /Users/jsjj/Library/Preferences/netlify/helper/path.zsh.inc
+```
+
