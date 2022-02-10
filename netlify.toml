@@ -39,6 +39,6 @@
     X-XSS-Protection = "0"
     X-Content-Type-Options = "nosniff"
     # Content-Security-Policy = "default-src 'self' 'sha384-CP0pwD2GW8dy635yS5s6VaqJX7b9DS5puV/X18bgSmR2xaePsyP78hLM8yIqXYCA'; script-src 'self' unpkg.com identity.netlify.com;"
-    Content-Security-Policy = "default-src 'self' unpkg.com identity.netlify.com 'unsafe-inline' 'unsafe-eval';"  # TODO: must select actual nonces for security
+    Content-Security-Policy = "default-src 'self' unpkg.com identity.netlify.com doks-child-theme.netlify.app 'unsafe-inline' 'unsafe-eval';"  # TODO: must select actual nonces for security
 
 
